@@ -51,8 +51,14 @@ align-items: center;
     width: 35%;
 }
 .Anime{
-    width: 50%;
+    width: 35%;
 }
 .icone{
-    width: 15%;
+    width: 5%;
+    padding: 4px 8px;
+}
+.todos-estudantes{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20%;
+
 }
