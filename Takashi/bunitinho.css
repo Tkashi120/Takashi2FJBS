@@ -60,5 +60,24 @@ align-items: center;
 .todos-estudantes{
     display: grid;
     grid-template-columns: 20% 20% 20% 20%;
-
+    justify-content: center;
+    align-items: center;
+}
+.embaixo{
+    width: 10%;
+}
+.rodape{
+    background-color: black;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+a{
+    color: seashell;
+    text-decoration: none;
+}
+a:hover{
+    color:salmon;
+    text-decoration:underline;
+    
 }
